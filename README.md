@@ -6,16 +6,16 @@ Included projects-
 
 1a: List pair generator
 
-- Takes a list of numbers and generates all possible ordered pairs.
+- Takes a list of numbers and generates all possible ordered pairs
 
 1b: Dictionary filter
 
 - Builds a dictionary with list values, filters even elements in each list.
 
-1c: Tuple adder
+1c: Tuple input and summation 
 
-- Takes multiple tuples and calculates an element-wise sum.
-
+-Accepts user input to build a tuple of tuples 
+-Performs element wise summation of three fixed size tuples
   
 How to Run
 Each file is independent:
